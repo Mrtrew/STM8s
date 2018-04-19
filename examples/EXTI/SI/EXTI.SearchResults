@@ -1,0 +1,4 @@
+---- GPIOH Matches (4 in 2 files) ----
+Main.h (d:\stm8资料\stm8s固件函数库\fwlib\examples\exti\exti_interruptpriority):#define LEDS_PORT (GPIOH)
+Stm8s.h (d:\stm8资料\stm8s固件函数库\fwlib\library\inc):#define GPIOH_BaseAddress       0x5023
+Stm8s.h (d:\stm8资料\stm8s固件函数库\fwlib\library\inc): #define GPIOH ((GPIO_TypeDef *) GPIOH_BaseAddress)
